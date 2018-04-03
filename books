@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.red {
+  color: rgb(255, 0, 0)
+  }
+  
+.orange {
+  color: rgb(255, 128, 0)
+  }
+  
+.yellow {
+  color: yellow
+  }
+  
+.green {
+  color: #008000
+  }
+  
+ .blue {
+  color: rgb(0, 0, 255)
+  }
+  
+.indigo {
+  color: rgb(75, 0, 130)
+  }
+  
+.violet {
+  color: rgb(148, 0, 211)
+  }
+  
+.gray {
+  color: rgb(94, 89, 94)
+
+
+</style>
+</head>
+
+<body>
+
+<h1>Great Books</h1>
+<p class = "indigo">Before you read, please note that this is all opinion and many opinions differ. What I like, you may not.</p>
+<p>Books. Books, books, books. There are literally millions of books, everywhere. In schools, homes, libraries(especially libraries), work places, and basically everywhere you can imagine. Some people despise reading but the rest of the population either is ok with reading or loves it. And that's why I created this website. </p>
+
+
+</body>
+</html>
